@@ -1,0 +1,159 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.background{
+	width: 100%;
+	height: 1550px;
+	background-image: url(3.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.navbar{
+	width: 85%;
+	margin: 0px;
+	padding: 15px; 
+	align-items: center;
+	justify-content: space-between;
+	display: flex;
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin:  15px;
+	margin-left: 6px;
+}
+.navbar ul li a{
+	text-decoration: none;
+	color: grey;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size:20px; 
+}
+.logo{
+	width: 20%;
+	height: 150px;
+	border-radius: 360px;
+}
+.holly{
+	color: grey;
+	padding-top: 5%;
+	margin: 0px;
+	margin-left: 5%;
+}
+.holly h1{
+	width: 40%; 
+	font-size: 50px;
+}
+.holly img{
+	width: 21%;
+	height: 270px;
+}
+.bolly{
+	float: right;
+	color: grey;
+	top: 34%;
+	position: absolute;
+	width: 20%;
+	padding-left: 80%;
+	margin: 0px;
+}
+.bolly h1{
+	width: 40%;
+	font-size: 50px;
+}
+.bolly img{
+	width: 90%;
+	height: 275px;
+}
+.lolly{
+	color: grey;
+	padding-top: 5%;
+	margin-left: 2%;
+}
+.lolly h1{
+	width: 100%;
+	font-size: 40px;
+	text-align: center;
+	display: flex;
+}
+.navbar ul li{
+}
+.lolly img{
+	width: 25%;
+	height: 270px;
+}
+.asim h2{
+	color: grey;
+	margin-left: 5%;
+}
+.asim img{
+	width: 21%;
+	height: 270px;
+	margin-left: 5%;
+}
+.atif{
+	color: grey;
+	float: right;
+	top: 155%;
+	position: absolute;
+	padding-left: 80%;
+}
+.atif img{
+	width: 85%;
+	height: 270px;
+}
+.footer{
+	width: 100%;
+	height: auto;
+	background-color: black;
+	color: grey;
+}
+
+.footer-items{
+	 text-align: center;
+	 align-items: center;
+}
+.footer-items h1{
+	font-size: 50px;
+	font-weight: bold; 
+} /*footer head css*/
+.footer-items p{
+	font-size: 30px;
+	margin: 30px;
+}
+.footer-bottom{
+	 background: #000;
+    width: 100%;
+	padding-bottom: 40px;
+}
+
+.footer-bottom p{
+   float: left;
+   font-size: 18px;
+}
+.footer-bottom p a{
+  color:#44bae8;
+  font-size: 16px;
+  text-decoration: none;
+}
+.footer-menu{
+  float: right;
+}
+
+.footer-menu ul{
+  display: flex;
+}
+
+.footer-menu ul li{
+	padding-right: 10px;
+	display: block;
+}
+
+.footer-menu ul li a{
+  color: grey;
+  text-decoration: none;
+}
+.footer-menu ul li a:hover{
+  color: #27bcda;
+}

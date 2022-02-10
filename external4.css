@@ -1,0 +1,187 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.background{
+	width: 100%;
+	height: 1550px;
+	background-image: url(3.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.navbar{
+	width: 85%;
+	margin: 0px;
+	padding: 15px; 
+	align-items: center;
+	justify-content: space-between;
+	display: flex;
+}
+.navbar ul li{
+	list-style: none;
+	display: inline-block;
+	margin:  15px;
+	margin-left: 6px;
+}
+.navbar ul li a{
+	text-decoration: none;
+	color: grey;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size:20px; 
+}
+.logo{
+	width: 20%;
+	height: 150px;
+	border-radius: 360px;
+}
+.holly{
+	color: grey;
+	padding-top: 5%;
+}
+.b1{
+	color: grey;
+}
+.b2{
+	color: grey;
+}
+.taylor{
+	color: grey;
+}
+.t1{
+	color: grey;
+}
+.t2{
+	color: grey;
+}
+.bolly{
+	color: grey;
+	float: right;
+	top: 35%;
+	position: absolute;
+	padding-left: 70%;
+}
+.a1{
+	color: grey;
+	float: right;
+	position: absolute;
+	padding-left: 70%;
+	top: 58%;
+}
+.a2{
+	color: grey;
+	float: right;
+	top: 73%;
+	position: absolute;
+	padding-left: 70%;
+}
+.anuv{
+	color: grey;
+	float: right;
+	top: 92%;
+	position: absolute;
+	padding-left: 70%;
+}
+.j1{
+	color: grey;
+	float: right;
+	top: 102%;
+	position: absolute;
+	padding-left: 70%;
+}
+.j2{
+	color: grey;
+	float: right;
+	top: 116%;
+	position: absolute;
+	padding-left: 70%;
+}
+.lolly{
+	color: grey;
+	width: 100%;
+	text-align: center;
+}
+.asim{
+	color: grey;
+}
+.azhar1{
+	color: grey;
+}
+.azhar2{
+	color: grey;
+}
+.atif{
+	color: grey;
+	float: right;
+	top: 150%;
+	position: absolute;
+	padding-left: 70%;
+}
+.aslam1{
+	color: grey;
+	float: right;
+	top: 160%;
+	position: absolute;
+	padding-left: 70%;
+}
+.aslam2{
+	color: grey;
+	float: right;
+	top: 175%;
+	position: absolute;
+	padding-left: 70%;
+}
+.footer{
+	width: 100%;
+	height: auto;
+	background-color: black;
+	color: grey;
+}
+
+.footer-items{
+	 text-align: center;
+	 align-items: center;
+}
+.footer-items h1{
+	font-size: 50px;
+	font-weight: bold; 
+} /*footer head css*/
+.footer-items p{
+	font-size: 30px;
+	margin: 30px;
+}
+.footer-bottom{
+	 background: #000;
+    width: 100%;
+	padding-bottom: 40px;
+}
+
+.footer-bottom p{
+   float: left;
+   font-size: 18px;
+}
+.footer-bottom p a{
+  color:#44bae8;
+  font-size: 16px;
+  text-decoration: none;
+}
+.footer-menu{
+  float: right;
+}
+
+.footer-menu ul{
+  display: flex;
+}
+
+.footer-menu ul li{
+	padding-right: 10px;
+	display: block;
+}
+
+.footer-menu ul li a{
+  color: grey;
+  text-decoration: none;
+}
+.footer-menu ul li a:hover{
+  color: #27bcda;
+}
